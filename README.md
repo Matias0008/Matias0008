@@ -62,7 +62,7 @@ Soy estudiante universitario, en el primer año de la carrera Ingenieria en Sist
 </p>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Matias0008)
+![Profile Views](https://komarev.com/ghpvc/?username=Matias0008&color=dc143c)
 
 
 <details>

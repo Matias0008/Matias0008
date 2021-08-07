@@ -13,7 +13,7 @@ Soy estudiante universitario, en el primer año de la carrera Ingenieria en Sist
 ## ⚡️Actualidad
 
 - 🔭 Estoy trabajando en varios proyectos de backend con Python
-<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+
 
 
 <details>

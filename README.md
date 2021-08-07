@@ -4,7 +4,7 @@
 #### 📬 Contacto
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:delmaty.03@gmail.com)](mailto:matiasdelgado159@gmail.com)
 
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+### Un poco sobre mí <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 Soy estudiante universitario, en el primer año de la carrera Ingenieria en Sistemas de Información, soy un **amante de la tecnología**<br/><br/>
 
 

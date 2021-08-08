@@ -17,7 +17,7 @@ Soy estudiante universitario en el primer año de la carrera Ingenieria en Siste
 - 🔭 &nbsp; Actualmente estoy finalizando de "aprender" Flask, para luego continuar con Django
 - 🌱 &nbsp; Mi meta es llegar a ser un buen desarrollador de backend
 - 👨🏻‍💻 &nbsp; Todos mis proyectos están disponibles en [Github](https://github.com/Matias0008?tab=repositories)
-<br>
+
 
   
 ### ⚙️ Herramientas y lenguajes que manejo
@@ -36,6 +36,7 @@ Soy estudiante universitario en el primer año de la carrera Ingenieria en Siste
 <br>
 <br>
 <br>
+
 ### 🚀 Estadisticas rápidas
 <p align="center">
 <p></p>

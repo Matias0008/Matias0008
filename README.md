@@ -35,7 +35,7 @@ Soy estudiante universitario, en el primer año de la carrera Ingenieria en Sist
 ### 🚀 Estadisticas rápidas
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Matias0008&show_icons=true&line_height=21&theme=react" alt="Matias0008's Github Stats" />
- 
+ <p>        </p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matias0008&theme=react&line_height=27&layout=compact" />
 </p>
 

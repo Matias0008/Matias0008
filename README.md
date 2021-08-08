@@ -14,8 +14,8 @@ Soy estudiante universitario en el primer año de la carrera Ingenieria en Siste
   
 ### 🧐 Un poco más de mí:
 
-- 🔭 &nbsp; Actualmente estoy aprendiendo Django**
-- 🌱 &nbsp; Me interesa mucho el backend; 
+- 🔭 &nbsp; Actualmente estoy aprendiendo Django
+- 🌱 &nbsp; Mi meta es llegar a ser un buen desarrollador de backend
 - 👨🏻‍💻 &nbsp; Todos mis proyectos están disponibles en [Github](https://github.com/Matias0008?tab=repositories)
 
 <br>

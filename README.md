@@ -4,7 +4,7 @@
 #### 📬 Contacto
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:delmaty.03@gmail.com)](mailto:matiasdelgado159@gmail.com)
 
-### Un poco sobre mí <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+### Un adelanto sobre mi <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 Soy estudiante universitario en el primer año de la carrera Ingenieria en Sistemas de Información, tengo 18 años y soy de Argentina
 
 
@@ -12,7 +12,7 @@ Soy estudiante universitario en el primer año de la carrera Ingenieria en Siste
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
-### 🧐 More About Me:
+### 🧐 Un poco más de mí:
 
 - 🔭 &nbsp; I’m currently working on **youtube-audio-player**
 - 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
@@ -39,7 +39,7 @@ Soy estudiante universitario en el primer año de la carrera Ingenieria en Siste
 </details>
 
 
-<br>
+
 ### 🚀 Estadisticas rápidas
 <p align="center">
 <p></p>

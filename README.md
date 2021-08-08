@@ -16,7 +16,7 @@ Soy estudiante universitario en el primer año de la carrera Ingenieria en Siste
 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  <summary>Algunas cosas más 😄</summary>
+ <summary>Algunas cosas más 😄</summary>
   
 
 ### ⚙️ Herramientas y lenguajes que manejo
@@ -31,6 +31,7 @@ Soy estudiante universitario en el primer año de la carrera Ingenieria en Siste
 </details>
 
 
+<br>
 ### 🚀 Estadisticas rápidas
 <p align="center">
 <p></p>

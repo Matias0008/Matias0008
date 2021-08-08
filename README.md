@@ -18,11 +18,8 @@ Soy estudiante universitario en el primer año de la carrera Ingenieria en Siste
 - 🌱 &nbsp; Mi meta es llegar a ser un buen desarrollador de backend
 - 👨🏻‍💻 &nbsp; Todos mis proyectos están disponibles en [Github](https://github.com/Matias0008?tab=repositories)
 <br>
-<br>
-<br>
-<br>
-  
 
+  
 ### ⚙️ Herramientas y lenguajes que manejo
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
@@ -35,7 +32,10 @@ Soy estudiante universitario en el primer año de la carrera Ingenieria en Siste
 </details>
 
 
-
+<br>
+<br>
+<br>
+<br>
 ### 🚀 Estadisticas rápidas
 <p align="center">
 <p></p>

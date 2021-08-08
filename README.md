@@ -15,7 +15,7 @@ Soy estudiante universitario en el primer año de la carrera Ingenieria en Siste
 - 🔭 Le estoy metiendo mucho a Python, en la parte de backend con sus frameworks.
 
 
-<img align='end' src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif">
+<img align='right' src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif">
 <details>
   <summary>Algunas cosas más 😄</summary>
   

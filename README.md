@@ -40,7 +40,6 @@ Soy estudiante universitario en el primer año de la carrera Ingenieria en Siste
 
 
 <p align="center">
-<p></p>
 
 ### 🚀 Estadisticas rápidas
 <br>

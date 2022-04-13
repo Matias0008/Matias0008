@@ -41,7 +41,6 @@ Soy estudiante universitario en el segundo año de la carrera Ingenieria en Sist
 
 <br>
 
-### 🚀 Estadisticas rápidas
  <p></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matias0008&theme=react&line_height=27&layout=compact" />
 

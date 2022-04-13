@@ -5,19 +5,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:delmaty.03@gmail.com)](mailto:matiasdelgado159@gmail.com)
 
 ### Sobre mí <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-Soy estudiante universitario en el segundo año de la carrera Ingenieria en Sistemas de Información.<br>Tengo 18 años y soy de Argentina.
+Soy estudiante universitario en el segundo año de la carrera Ingenieria en Sistemas de Información.<br>Tengo 19 años y soy de Argentina.
 
 
 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
-### 🧐 Un poco más de mí:
 
-- 👨🏻‍💻 &nbsp; Todos mis proyectos están disponibles en [Github](https://github.com/Matias0008?tab=repositories)
-
-
-  
 ### ⚙️ Herramientas y lenguajes que manejo
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>

@@ -1,11 +1,8 @@
 <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">¡Hola! , soy <a href="https://github.com/Matias0008">Matias</a> </h1>
 </h1>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:delmaty.03@gmail.com)](mailto:matiasdelgado159@gmail.com)
-
-
 Soy estudiante universitario en el segundo año de la carrera Ingenieria en Sistemas de Información.<br>Tengo 19 años y soy de Argentina.
-
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:delmaty.03@gmail.com)](mailto:matiasdelgado159@gmail.com)
 
 
 

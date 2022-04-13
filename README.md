@@ -25,10 +25,8 @@ Soy estudiante universitario en el segundo año de la carrera Ingenieria en Sist
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
 
 </details>
-
+<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matias0008&theme=react&line_height=27&layout=compact" />
-
-</p>
 
 
 

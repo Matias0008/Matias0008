@@ -4,7 +4,7 @@
 #### 📬 Contacto
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:delmaty.03@gmail.com)](mailto:matiasdelgado159@gmail.com)
 
-### Sobre mí <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+
 Soy estudiante universitario en el segundo año de la carrera Ingenieria en Sistemas de Información.<br>Tengo 19 años y soy de Argentina.
 
 

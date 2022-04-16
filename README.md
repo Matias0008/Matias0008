@@ -1,7 +1,7 @@
 <h1>Hola!</h1>
 </h1>
 
-Soy estudiante universitario en el segundo año de la carrera Ingenieria en Sistemas de Información.<br>Tengo 19 años y soy de Argentina.
+19 años, Argentina.
 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
